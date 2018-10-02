@@ -7,6 +7,6 @@ public class Main {
 	// write your code here
         System.out.println("Zdravo svete!");
         System.out.println();
-
+        System.out.println("Drugi commit!!!");
     }
 }
